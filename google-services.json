@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "814246122662",
+    "firebase_url": "https://nox-find-default-rtdb.firebaseio.com",
+    "project_id": "nox-find",
+    "storage_bucket": "nox-find.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:814246122662:android:d0b8e2be423bfedf7d1067",
+        "android_client_info": {
+          "package_name": "com.noxfind.familyfind"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "814246122662-v45f7qqcdkp6jjvefocekfuf0o1mokum.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.noxfind.familyfind",
+            "certificate_hash": "1def079ac276844736367f09fe2dd92ded854c48"
+          }
+        },
+        {
+          "client_id": "814246122662-qea7tgqs0d8m1s8jfgo22fbfehhush3v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWh0yAsFgxnn_rr46Feb-33XyCcbJKEyk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "814246122662-qea7tgqs0d8m1s8jfgo22fbfehhush3v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
